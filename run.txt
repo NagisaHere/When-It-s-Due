@@ -1,0 +1,2 @@
+docker build -t xxxx:latest
+docker run -p 5001:80 xxxx:latest
